@@ -34,7 +34,7 @@
       <?php endforeach; ?>
     </ul>
   <?php endif; ?>
-  <form action="testesistemas.php" method="POST">
+  <form action="index.php" method="POST">
     <div>
       <input type="text" name="nome" placeholder="Nome">
     </div>
